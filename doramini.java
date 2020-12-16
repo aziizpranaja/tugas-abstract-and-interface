@@ -43,7 +43,7 @@ class DoraMini implements Robot , Doraemon
     {
         setNama("DoraMini");
         setTahun(2020);
-        setPemilik("Kharismaharani Aisyah P.\n");
+        setPemilik("Muhammad Aziiz Pranaja.\n");
         System.out.println("--DoraMini Berkata--");
         sayDora();
         displayKantongAjaib();
